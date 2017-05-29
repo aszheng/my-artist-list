@@ -1,1 +1,1 @@
-# Photo-Album-Practice-
+# my-artist-list

@@ -1,0 +1,18 @@
+### node etc ###
+*.DS_Store
+.DS_Store
+.DS_Store?
+
+# Webpack bundle
+react-client/dist/bundle.js
+
+# Logs
+logs
+*.log
+
+# Compiled Dirs (http://nodejs.org/api/addons.html)
+build/
+
+# Dependency directories
+node_modules/
+bower_components/
